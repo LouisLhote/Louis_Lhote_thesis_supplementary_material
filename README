@@ -1,1 +1,113 @@
+# Supplementary material
 
+Supplementary tables, data files and figures accompanying the PhD thesis:
+
+**Ancient pathogen genomics of domestic small ruminants**
+Louis L'Hôte
+School of Genetics and Microbiology, Trinity College Dublin / School of Agriculture and Food Science, University College Dublin
+Submitted [MONTH YEAR]
+
+*[Replace the title, affiliation and date above with the versions on your title page.]*
+
+---
+
+## About
+
+The thesis asks how the domestication of sheep and goats shaped the evolution of the pathogens that circulate in them — both those transmissible to humans and those confined to livestock. It comprises three research chapters, and this repository holds the supplementary material for each of them, one folder per chapter.
+
+Material published elsewhere is duplicated here for convenience; the version of record is the journal supplementary information in each case, linked below.
+
+---
+
+## Repository structure
+
+```
+.
+├── chapter2_pigsti/     Screening workflow for ancient animal remains
+├── chapter3_brucella/   Neolithic Brucella melitensis genome
+├── chapter4_capripox/   Ancient sheeppox virus genomes
+└── README.md
+```
+
+### `chapter2_pigsti/`
+
+Supplementary material for the development and application of PIGSTI (Pathogen anImal Genome Sequence ToolkIt), a modular workflow combining host species identification, microbial screening and pathogen authentication in ancient animal genomic datasets, applied to 953 archaeological livestock specimens.
+
+| File | Description |
+|---|---|
+| `TableS1_samples.xlsx` | Specimen metadata: site, element, host species, period, accession, data source |
+| `TableS2_benchmarking.xlsx` | Benchmarking results against simulated datasets for ten major ancient pathogens |
+| `TableS3_candidate_hits.xlsx` | All 1,023 candidate pathogen hits with screening metrics |
+| `TableS4_authenticated.xlsx` | The 109 authenticated detections, with authentication criteria |
+| `FigS1–SX.pdf` | Supplementary figures |
+
+*[Replace with your actual filenames. The pipeline itself is at [LINK TO PIGSTI REPOSITORY].]*
+
+### `chapter3_brucella/`
+
+Supplementary material for the recovery of a *Brucella melitensis* genome from the Neolithic sheep specimen Mentese6 (Menteşe Höyük, northwest Türkiye, 8007–7863 cal BP), and the calibration of the *B. melitensis* / *B. abortus* divergence.
+
+| File | Description |
+|---|---|
+| `TableS1_samples.xlsx` | Screened ruminant specimens and sequencing summary |
+| `TableS2_authentication.xlsx` | Screening and authentication metrics |
+| `TableS3_reference_genomes.xlsx` | The 141 core *Brucella* genomes used for comparison |
+| `TableS4_diagnostic_variants.xlsx` | Lineage-diagnostic variant genotyping |
+| `TableS5_dating.xlsx` | BEAST model comparison and divergence estimates |
+| `FigS1–SX.pdf` | Supplementary figures |
+
+*[Replace with your actual filenames.]*
+
+Published as: L'Hôte L, Light I, Mattiangeli V, Teasdale MD, Halpin Á, Gourichon L, Key FM, Daly KG (2024). An 8000 years old genome reveals the Neolithic origin of the zoonosis *Brucella melitensis*. *Nature Communications* 15:6132. https://doi.org/10.1038/s41467-024-50536-1
+
+### `chapter4_capripox/`
+
+Supplementary material for 21 ancient sheeppox virus genomes spanning the Late Bronze Age Eurasian steppe to Early Modern Europe, including the first pathogen genomes recovered from codicological material.
+
+| File | Description |
+|---|---|
+| `TableS1_samples.xlsx` | Archaeological and codicological specimens screened |
+| `TableS2_screening.xlsx` | Capripoxvirus screening results and E-values |
+| `TableS3_genomes.xlsx` | Coverage and quality statistics for the 21 genomes |
+| `TableS4_gene_inactivation.xlsx` | Gene inactivation states across ancient and modern genomes |
+| `TableS5_dating.xlsx` | Temporal signal, clock model comparison and divergence estimates |
+| `TableS6_rooting.xlsx` | Root posterior probabilities across clock models |
+| `FigS1–SX.pdf` | Supplementary figures |
+
+*[Replace with your actual filenames.]*
+
+Preprint: L'Hôte L et al. (2026). [TITLE]. *bioRxiv*. https://doi.org/10.64898/2026.02.23.707469
+
+---
+
+## Sequence data
+
+Raw sequencing data are deposited in the European Nucleotide Archive under accessions [ACCESSIONS]. Accession numbers for individual specimens are given in the sample tables above.
+
+*[If some data are under embargo, say so here with the release date.]*
+
+---
+
+## Citing
+
+If you use this material, please cite the thesis, or the relevant paper where one exists:
+
+```
+L'Hôte, L. (YEAR). [Thesis title]. PhD thesis, [Institution].
+```
+
+---
+
+## Licence
+
+Data files and figures in this repository are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless stated otherwise within a folder.
+
+*[Check this against any restrictions from the institutions that provided material — some heritage bodies place conditions on the redistribution of data derived from their collections, and the codicological material in Chapter 4 may be one of these.]*
+
+---
+
+## Contact
+
+Louis L'Hôte — louis.lhote@outlook.fr
+
+Questions about specific archaeological material should be directed to the institution holding it, listed against each specimen in the sample tables.
