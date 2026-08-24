@@ -121,19 +121,6 @@ Raw sequencing data are deposited in the [European Nucleotide Archive](https://w
 
 ---
 
-## Citation
-
-```bibtex
-@phdthesis{lhote_thesis,
-  author = {L'H\^{o}te, Louis},
-  title  = {{[Thesis title]}},
-  school = {[Institution]},
-  year   = {[Year]}
-}
-```
-
-For Chapter 3, please cite the published paper. For Chapter 4, the preprint until it appears in a journal.
-
 ---
 
 ## Licence
@@ -141,8 +128,6 @@ For Chapter 3, please cite the published paper. For Chapter 4, the preprint unti
 [![CC BY 4.0](https://img.shields.io/badge/Licence-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Data files and figures are released under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) unless a folder states otherwise.
-
-> **Check before publishing.** Some heritage institutions place conditions on redistributing data derived from their collections. This applies particularly to the codicological material in Chapter 4.
 
 ---
 
