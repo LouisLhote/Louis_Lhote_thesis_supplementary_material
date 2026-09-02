@@ -25,7 +25,7 @@ This repository holds the supplementary tables, data files and figures for the t
 |:--|:--|:--|:--|
 | **2** | A screening workflow for archaeological animal remains | [`chapter2_pigsti/`](chapter2_pigsti) | In preparation |
 | **3** | A Neolithic *Brucella melitensis* genome | [`chapter3_brucella/`](chapter3_brucella) | [Published](https://doi.org/10.1038/s41467-024-50536-1) |
-| **4** | Ancient sheeppox virus genomes | [`chapter4_capripox/`](chapter4_capripox) | [Preprint](https://doi.org/10.64898/2026.02.23.707469) |
+| **4** | Ancient sheeppox virus genomes | [`chapter4_capripox/`](chapter4_capripox) | [Published ](https://doi.org/10.1126/sciadv.aeh3571) |
 
 ---
 
