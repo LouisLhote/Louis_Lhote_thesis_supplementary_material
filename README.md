@@ -19,8 +19,6 @@ Louis L'Hôte — UCD School of Agriculture and Food Science, University College
 
 ## Overview
 
-How did the domestication of sheep and goats shape the evolution of the pathogens circulating in them — both those transmissible to humans and those confined to the herd?
-
 This repository holds the supplementary tables, figures and data files for the three research chapters that address that question. Material also published as journal supplementary information is duplicated here for convenience; the version of record is the publisher's in each case.
 
 | Chapter | Subject | Folder | Status |
