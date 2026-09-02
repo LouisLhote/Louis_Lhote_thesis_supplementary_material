@@ -115,9 +115,7 @@ Twenty-one ancient sheeppox virus genomes spanning the Late Bronze Age Eurasian 
 
 ## Sequence data
 
-Raw sequencing data are deposited in the [European Nucleotide Archive](https://www.ebi.ac.uk/ena) under accession **[PRJEBXXXXXX]**. Accessions for individual specimens are given in the sample table of each chapter folder.
-
-<sub>If any data are under embargo, state the release date here rather than leaving it blank.</sub>
+Raw sequencing data are deposited in the [European Nucleotide Archive](https://www.ebi.ac.uk/ena) under accession **PRJEB124647** for Chapter 2, ** PRJEB75678** for Chapter 3 and **PRJEB107108** for Chapter 4. Accessions for individual specimens are given in the sample table of each chapter folder.
 
 ---
 
