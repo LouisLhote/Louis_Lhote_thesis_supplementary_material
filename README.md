@@ -55,7 +55,6 @@ Supplementary tables for each chapter are provided as a single workbook with one
 <summary><b>Chapter 2 — PIGSTI: pathogen screening in ancient animal genomic data</b></summary>
 <br>
 
-PIGSTI (Pathogen anImal Genome Sequence ToolkIt) combines host species identification, microbial screening and pathogen authentication in a single reproducible Snakemake workflow, developed for archaeological faunal material rather than adapted from human-focused pipelines. Applied to 952 ancient and modern livestock datasets, returning 109 authenticated detections from 1,023 candidate hits across 89 specimens, including the first ancient animal records of *Rickettsia felis* and *Leptospira borgpetersenii*.
 
 | File | Sheet | Description |
 |:--|:--|:--|
@@ -79,7 +78,6 @@ PIGSTI (Pathogen anImal Genome Sequence ToolkIt) combines host species identific
 <summary><b>Chapter 3 — A Neolithic <i>Brucella melitensis</i> genome</b></summary>
 <br>
 
-A *B. melitensis* genome recovered from the Neolithic sheep specimen Mentese6 (Menteşe Höyük, northwest Türkiye, 8007–7863 cal BP), calibrating the divergence of *B. melitensis* from the cattle-associated *B. abortus* to approximately 9,800 BP.
 
 | File | Sheet | Description |
 |:--|:--|:--|
@@ -106,7 +104,6 @@ A *B. melitensis* genome recovered from the Neolithic sheep specimen Mentese6 (M
 <summary><b>Chapter 4 — Ancient sheeppox virus genomes</b></summary>
 <br>
 
-Twenty-one ancient sheeppox virus genomes spanning the Late Bronze Age Eurasian steppe to Early Modern Europe — the oldest *Poxviridae* genomes recovered to date, and the first complete pathogen genomes obtained from parchment.
 
 | File | Sheet | Description |
 |:--|:--|:--|
@@ -149,6 +146,6 @@ Data files and figures are released under [Creative Commons Attribution 4.0 Inte
 
 ## Contact
 
-**Louis L'Hôte** — <louis.lhote@outlook.fr>
+**Louis L'Hôte** — <lhtel@tcd.ie>
 
 Enquiries about specific archaeological material should be directed to the institution holding it, identified against each specimen in sheet `S1` of the relevant workbook.
